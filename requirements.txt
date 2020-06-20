@@ -12,8 +12,8 @@ pandas
 nltk
 spacy
 polyglot
-sudo apt-get install libicu-dev
-sudo apt-get install build-essential
-pip install pycld2
-pip install morfessor
-sudo pip install PyICU
+libicu-dev
+build-essential
+pycld2
+morfessor
+PyICU
